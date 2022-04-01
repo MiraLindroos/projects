@@ -1,0 +1,101 @@
+/* mobile */
+/* background styling */
+body {
+  background-image: url("mobileback.jpg");
+  background-size: contain;
+  background-attachment: fixed;
+}
+/* navbar color, position (stays on top when scrolling) */
+.topbar {
+  overflow: hidden;
+  background-color: rgba(68, 124, 93, 0.986);
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 100%;
+}
+/* navbar link styling */
+.topbar a {
+  float: left;
+  display: block;
+  color: #080808;
+  text-align: center;
+  padding: 5px 10px;
+  text-decoration: none;
+  font-family: "papyrus";
+  font-size: 18px;
+}
+/* styling for paragraphs */
+p {
+  margin: 22px 30px;
+  font-family: "Quicksand";
+  font-size: 21px;
+}
+/* styling for headers */
+h3 {
+  margin-top: 35px;
+  margin-left: 30px;
+  font-family: "papyrus";
+  font-size: 28px;
+}
+/* styling for the biggest header */
+h1 {
+  text-align: center;
+  font-family: "papyrus";
+  color: rgb(58, 92, 72);
+  margin-top: 70px;
+  font-size: 40px;
+}
+/* styling for unopened links */
+a:link {
+  color: rgb(31, 63, 44);
+  font-size: 20px;
+  font-family: "papyrus";
+  font-weight: bold;
+  display: flex;
+}
+/* color styling for visited links */
+a:visited {
+  color: rgb(31, 63, 44);
+}
+/* styling for links inside the paragraphs */
+.link a {
+  color: rgb(31, 63, 44);
+  font-size: 23px;
+  display: inline-block;
+  text-decoration: none;
+  font-style: italic;
+}
+/* tablet */
+@media screen and (min-width: 40em) {
+  /* navbar link padding change */
+  .topbar a {
+    padding: 8px 12px;
+  }
+  /* navbar background color change when hovering */
+  .topbar a:hover {
+    background-color: rgba(87, 129, 106, 0.986);
+  }
+  /* changes to padding and font size of the paragraphs */
+  p {
+    margin: 25px 35px;
+    font-size: 24px;
+  }
+  /* header font size changes */
+  h3 {
+    font-size: 30px;
+  }
+  /* changes to the font size and margin-top */
+  h1 {
+    margin-top: 80px;
+    font-size: 48px;
+  }
+  /* font size change for unopened links */
+  a:link {
+    font-size: 24px;
+  }
+  /* font size change for links inside the paragraphs */
+  .link a {
+    font-size: 26px;
+  }
+}
