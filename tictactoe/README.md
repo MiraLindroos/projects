@@ -13,8 +13,3 @@ java TicTacToe
 
 HOW TO USE
 Do the above commands in cmd and then just answer the questions asked in the game!
-
-SCREENCAST OF THE PROJECT WORK
-https://youtu.be/7ObpnMnJ_RE
-
-
