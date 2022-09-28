@@ -1,0 +1,4 @@
+python, mira, 11
+laptop, linda, 14
+porridge, jukka, 16
+porridge, mira, 51
