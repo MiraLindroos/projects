@@ -27,9 +27,9 @@ This project might seem small and simple, but it was a step for me towards React
 
 ## _**Websites**_
 
-Grief Support Website: Contributed to the development of a grief support website for those who've experienced traumatic loss of child. https://griefsupport.fi
+**Grief Support Website:** Contributed to the development of a grief support website for those who've experienced traumatic loss of child. https://griefsupport.fi
 
-Mobile Game and Website: Collaborated on a team project during the first year of school, developing a mobile game and creating its website. Here's the link to the website, which I made. https://webpages.tuni.fi/21tiko4a/index.html
+**Mobile Game and Website:** Collaborated on a team project during the first year of school, developing a mobile game and creating its website. Here's the link to the website, which I made. https://webpages.tuni.fi/21tiko4a/index.html
 
-Personal Website: Here's the link to my first-ever website. https://homepages.tuni.fi/mira.lindroos/index.html
+**Personal Website:** Here's the link to my first-ever website. https://homepages.tuni.fi/mira.lindroos/index.html
 
