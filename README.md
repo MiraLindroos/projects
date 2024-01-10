@@ -22,6 +22,8 @@ _**React projects**_
 
 https://github.com/MiraLindroos/reactproject
 
+This project might seem small and simple, but it was a step for me towards React Native and making mobile apps. It showed me how to build things for phones using JavaScript. https://github.com/MiraLindroos/react-native-app
+
 
 _**Websites**_
 
