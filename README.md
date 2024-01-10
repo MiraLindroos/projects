@@ -10,7 +10,7 @@ TO COMPILE AND RUN: To run the game, navigate to the 'src' directory, compile us
 
 HOW TO USE: Do the above commands in cmd and then just answer the questions asked in the game!
 
-_**Hangman (Python)**_
+## _**Hangman (Python)**_
 
 ABOUT THE PROJECT: Created a Hangman game in Python, allowing users to guess words randomly chosen from a text file. The game determines a win or loss based on the user's guesses.
 
@@ -18,14 +18,14 @@ TO COMPILE AND RUN: Run cd src and execute python hangman.py in the command line
 
 HOW TO USE Do the above commands in cmd and then just answer the questions asked in the game!
 
-_**React projects**_
+## _**React projects**_
 
 This project, a ToDo page, was my initial exposure to React. It helped me understand the basics of component-based web development and how to manage state in React applications. https://github.com/MiraLindroos/reactproject
 
 This project might seem small and simple, but it was a step for me towards React Native and making mobile apps. It showed me how to build things for phones using JavaScript. https://github.com/MiraLindroos/react-native-app
 
 
-_**Websites**_
+## _**Websites**_
 
 Grief Support Website: Contributed to the development of a grief support website for those who've experienced traumatic loss of child. https://griefsupport.fi
 
