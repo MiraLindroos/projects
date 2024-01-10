@@ -18,6 +18,11 @@ TO COMPILE AND RUN: Run cd src and execute python hangman.py in the command line
 
 HOW TO USE Do the above commands in cmd and then just answer the questions asked in the game!
 
+_**React projects**_
+
+https://github.com/MiraLindroos/reactproject
+
+
 _**Websites**_
 
 Grief Support Website: Contributed to the development of a grief support website for those who've experienced traumatic loss of child. https://griefsupport.fi
