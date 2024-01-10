@@ -20,7 +20,9 @@ HOW TO USE Do the above commands in cmd and then just answer the questions asked
 
 _**Websites**_
 
-Grief Support Website: Contributed to the development of a grief support website for those who've experienced traumatic loss of child. GriefSupport.fi
+Grief Support Website: Contributed to the development of a grief support website for those who've experienced traumatic loss of child. https://griefsupport.fi
+
 Mobile Game and Website: Collaborated on a team project during the first year of school, developing a mobile game and creating its website. Here's the link to the website, which I made. https://webpages.tuni.fi/21tiko4a/index.html
+
 Personal Website: Here's the link to my first-ever website. https://homepages.tuni.fi/mira.lindroos/index.html
 
