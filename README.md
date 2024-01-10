@@ -2,7 +2,7 @@
 
 I'm currently pursuing a degree in Business Information Systems at TAMK. Below are some of the projects I've worked on during my courses:
 
-_**Tic Tac Toe (Java)**_
+## _**Tic Tac Toe (Java)**_
 
 ABOUT THE PROJECT: Developed a console-based Tic Tac Toe game where users can set the playfield size and win conditions. The game allows users to play against the computer.
 
