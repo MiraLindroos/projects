@@ -14,7 +14,7 @@ HOW TO USE: Do the above commands in cmd and then just answer the questions aske
 
 ABOUT THE PROJECT: Created a Hangman game in Python, allowing users to guess words randomly chosen from a text file. The game determines a win or loss based on the user's guesses.
 
-TO COMPILE AND RUN: Run cd src and execute python hangman.py in the command line to start the game.
+TO COMPILE AND RUN: Run cd hangman and execute python3 hangman.py in the command line to start the game.
 
 HOW TO USE Do the above commands in cmd and then just answer the questions asked in the game!
 
