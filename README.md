@@ -22,7 +22,7 @@ HOW TO USE Do the above commands in cmd and then just answer the questions asked
 
 This project, a ToDo page, was my initial exposure to React. It helped me understand the basics of component-based web development and how to manage state in React applications. https://github.com/MiraLindroos/reactproject
 
-This project might seem small and simple, but it was a step for me towards React Native and making mobile apps. It showed me how to build things for phones using JavaScript. https://github.com/MiraLindroos/react-native-app
+This project was created as part of an assignment to develop a simple app that lists users and their images. Although it might seem small and simple, but it was a step for me towards React Native and making mobile apps. Through this project, I learned how to build mobile applications using JavaScript, showcasing my skills in the framework and serving as an effective introduction to the world of mobile development. This experience ultimately led to an internship where I was able to deepen my knowledge further. You can find the project here: https://github.com/MiraLindroos/react-native-app.
 
 
 ## _Expense tracker REST API_
