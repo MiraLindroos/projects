@@ -8,8 +8,7 @@ The outcome of the game is either the win of a computer, the user or a tie.
 
 ## _TO COMPILE AND RUN_  
 cd src  
-javac tictactoe.java  
-java TicTacToe
+javac TicTacToe.java && java TicTacToe
 
 ## _HOW TO USE_
 Do the above commands in cmd and then just answer the questions asked in the game!
