@@ -31,6 +31,8 @@ This project was developed as part of a backend course, aiming to create a RESTf
 
 ## _Websites_
 
+**Verso Opetushoitola Website**: Improved the styling and user experience of the Verso Opetushoitola website using WordPress. The project involved custom CSS, responsive design enhancements, and theme customizations to align the website’s look and feel with the brand’s identity. https://verso-opetushoitola.fi
+
 **Grief Support Website:** Contributed to the development of a grief support website for those who've experienced traumatic loss of child. https://griefsupport.fi
 
 **Mobile Game and Website:** Collaborated on a team project during the first year of school, developing a mobile game and creating its website. Here's the link to the website, which I made. https://webpages.tuni.fi/21tiko4a/index.html
