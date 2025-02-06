@@ -20,14 +20,14 @@ HOW TO USE Do the above commands in cmd and then just answer the questions asked
 
 ## _React projects_
 
-This project, a ToDo page, was my initial exposure to React. It helped me understand the basics of component-based web development and how to manage state in React applications. https://github.com/MiraLindroos/reactproject
+A small ToDo page was my initial exposure to React. It helped me understand the basics of component-based web development and how to manage state in React applications.
 
-This project was created as part of an assignment to develop a simple app that lists users and their images. Although it might seem small and simple, but it was a step for me towards React Native and making mobile apps. Through this project, I learned how to build mobile applications using JavaScript, showcasing my skills in the framework and serving as an effective introduction to the world of mobile development. This experience ultimately led to an internship where I was able to deepen my knowledge further. You can find the project here: https://github.com/MiraLindroos/react-native-app.
+A simple React Native app that lists users and their images was created as part of an assignment. Although it was small and simple, it was a step for me towards React Native and making mobile apps. Through this project, I learned how to build mobile applications using JavaScript, showcasing my skills in the framework and serving as an effective introduction to the world of mobile development. This experience ultimately led to an internship where I was able to deepen my knowledge further.
 
 
 ## _Expense tracker REST API_
 
-This project was developed as part of a backend course, aiming to create a RESTful API for managing expenses using Node, Express, and MySQL. https://github.com/tiko-4A00EZ62/2022-wk49-final-project-MiraLindroos
+Expense tracker was developed as part of a backend course, aiming to create a RESTful API for managing expenses using Node, Express, and MySQL.
 
 ## _Websites_
 
